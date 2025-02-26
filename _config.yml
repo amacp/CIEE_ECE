@@ -10,8 +10,8 @@ markdown: kramdown
 nav:
   - title: Home
     url: /
-  - title: About
-    url: /CodeOfConduct.md
+  - title: Code of Conduct
+    url: /CodeOfConduct
   # - title: Projects
   #   url: /projects
   # - title: Contact
