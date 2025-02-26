@@ -1,7 +1,7 @@
 title: Genetic consequences of extreme climate-related events and the implications for management under global change
 description: CIEE Workshop
-# baseurl: "" # Leave empty if deploying to root, or set to "/repo-name"
-# url: "https://your-username.github.io" # Replace with your GitHub Pages URL
+baseurl: "" # Leave empty if deploying to root, or set to "/repo-name"
+url: "https://amacp.github.io/CIEE_ECE/" # Replace with your GitHub Pages URL
 
 theme: jekyll-theme-minimal # You can change the theme
 markdown: kramdown
@@ -11,7 +11,7 @@ nav:
   - title: Home
     url: /
   - title: Code of Conduct
-    url: /CodeOfConduct
+    url: ./CodeOfConduct
   # - title: Projects
   #   url: /projects
   # - title: Contact
