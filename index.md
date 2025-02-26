@@ -23,6 +23,4 @@ The proposed one-week in-person working group will take place in Paahtómahksiki
 
 ## Our Sponsers
 
-<img align="left" src="./CIEE_Logo.png" alt="CIEE"   width="350">
-
-<img align="left" src="./GenomeBC_Logo.png" alt="GenomeBC"   width="175">
+<img align="left" src="./CIEE_Logo.png" alt="CIEE"   width="350"> <img align="left" src="./GenomeBC_Logo.png" alt="GenomeBC"   width="175">
