@@ -1,13 +1,13 @@
-title: Ailene MacPherson
-email: ailenem@sfu.ca
+title: Genetic consequences of extreme climate-related events and the implications for management under global change
+#email: ailenem@sfu.ca
 
 minima:
   date_format: "%b %-d, %Y"
 
-# generate social links in footer
-social_links:
-  twitter: ailenemacp
-  #github:  jekyll
+# # generate social links in footer
+# social_links:
+#   twitter: ailenemacp
+#   #github:  jekyll
 
 #Build settings
 markdown: kramdown
