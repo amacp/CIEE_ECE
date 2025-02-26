@@ -1,14 +1,19 @@
 title: Genetic consequences of extreme climate-related events and the implications for management under global change
-#email: ailenem@sfu.ca
+description: CIEE Workshop
+# baseurl: "" # Leave empty if deploying to root, or set to "/repo-name"
+# url: "https://your-username.github.io" # Replace with your GitHub Pages URL
 
-minima:
-  date_format: "%b %-d, %Y"
-
-# # generate social links in footer
-# social_links:
-#   twitter: ailenemacp
-#   #github:  jekyll
-
-#Build settings
+theme: jekyll-theme-minimal # You can change the theme
 markdown: kramdown
-theme: minima
+
+# # Exclude files that should not be processed
+# exclude:
+#   - README.md
+#   - LICENSE
+#   - CNAME
+
+# # Plugins (optional, GitHub Pages allows only certain plugins)
+# plugins:
+#   - jekyll-feed
+#   - jekyll-seo-tag
+
