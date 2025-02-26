@@ -9,6 +9,20 @@ The proposed one-week in-person working group will take place in Paahtómahksiki
 
 ## Workshop Dates and Agenda
 
+### Monday, May 12th (Arrival)
+
+### Tuesday, May 13th 
+
+### Wednesday, May 14th 
+
+### Thursday, May 15th 
+
+### Friday, May 16th
+
 
 
 ## Our Sponsers
+
+<img align="left" src="./CIEE_Logo.png" alt="CIEE"   width="350">
+
+<img align="left" src="./GenomeBC_Logo.png" alt="GenomeBC"   width="175">
