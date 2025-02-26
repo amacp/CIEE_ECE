@@ -1,58 +1,14 @@
 ---
-title: Mathematical Epidemiology
+title: Genetic consequences of extreme climate-related events and the implications for management under global change 
 ---
 
-> **Winter Term 2022 Simon Fraser University**
+## Workshop summary
+Extreme climate-related events (ECEs) including fires, floods, heatwaves, and storms, are increasing in frequency across Canada and worldwide.  Evolutionary theory predicts that these events can have severe consequences for populations, including reduced genetic diversity, increased inbreeding, and diminished capacity for ongoing adaptation. However, temporal datasets assessing genetic diversity before and after ECEs have found little evidence for the predicted declines in genetic diversity. This lack of effect may signal a high degree of genetic resistance or resilience to ECEs across diverse wildlife populations, but alternatively, may reflect the small number of studies to date, their ad hoc nature (ECEs are inherently unpredictable), or limitations arising from the type or amount of data used to investigate their effects. This working group brings together a diverse group of theoretical and empirical biologists and conservation practitioners to extend our understanding of the genetic consequences of ECEs and to provide guidelines for empirical investigation of these events. 
 
-## Course Overview
-The aim of this course is to introduce the fundemental mathematical tools and survey contemporary methods used to understand and forcast epidemic dynamics and their use to inform public health policy. As a rapidly changing field, this course will focus on developing our ability to understand, analyze, and apply the recent scientific literature.  
+The proposed one-week in-person working group will take place in Paahtómahksikimi (Waterton Lakes National Park, WLNP, and the Blood Timber Reserve in SW Alberta), home of many species of conservation concern and the location of a recent, severe ECE. Guided by a recent synthesis of empirical case, the working group will develop a theoretical framework for studying the genetic consequences of ECEs. Participants will then use a rare before-after, control-impact genomic dataset to apply this framework to a species of conservation concern in Paahtómahksikimi and for which practical recommendations regarding the genetic management of populations following an ECE are needed. Integrating insights from theory and lessons learned from the case study and other existing empirical studies, the group will develop robust recommendations for the genetic monitoring and management of at-risk populations in face of the increasing threat posed by ECEs.  
 
-**Required Text:** Keeling, M.J., Rohani, P., *Modeling Infectious Diseases In Humans and Animals*. Princeton University Press. 2008. ISBN-13: 978-0-11617-4
-
-[**Suggested Reading**](https://github.com/amacp/Math496/blob/gh-pages/SuggestedReading.md) The list of popular science texts to inspire your curriostiy can be found [here](https://github.com/amacp/Math496/blob/gh-pages/SuggestedReading.md).
-
-[**References**](https://amacp.github.io/Math496/Papers.html) List of primary literature used in this course
-## Course Content
-
-[**Syllabus** ](https://storage.googleapis.com/math496/Math496_Syllabus.pdf) (subject to change)
-
-[Lecture Notes](https://amacp.github.io/Math496/LectureNotes.html)
-
-[Join Slack](https://join.slack.com/t/math496/shared_invite/zt-10vgjvfdx-51MzGDUCHOgMgIrrLakcFw) This course will use Slack as a discussion board and platform for course announcments.
-
-Tuesday 10:30-12:20 (Starting Janruary 11th)
-[Tuesday Zoom](https://sfu.zoom.us/j/67247833947?pwd=ZTU1S0YvSGgxOWJLZ1VOWXFIcFh5QT09)
+## Workshop Dates and Agenda
 
 
-Friday 10:30-11:20 (Starting Janruary 14th)
-[Friday Zoom](https://sfu.zoom.us/j/66650087703?pwd=aHdRQ3NON0RZRit5YVlJUmRSU2VaZz09)
 
-Office Hours: Tuesday and Friday12:30-1:30 [Office Hours Zoom](https://sfu.zoom.us/j/67247833947?pwd=ZTU1S0YvSGgxOWJLZ1VOWXFIcFh5QT09)
-
-### Challenge Questions
-
-Questions are due 1 week after they are assigned.
-
-List of current and past [Challenge Questions](https://storage.googleapis.com/math496/ChallengeQuestions.pdf)
-
-### Writing Assignments
-
-Submit Assignments as a **PDF** via email.  
-For each assignment provide a **max 2pg critical review** of the assigned peer-reviewed paper.  See syllabus for marking guide.
-
-* Assignment 1: [Anderson and May 1982](https://storage.googleapis.com/math496/PDFs/AndersondMay1982.pdf) (Due: Janruary 23)* 
-* Assignment 2: [Wu et al. 2006](https://github.com/amacp/Math496/blob/gh-pages/WuEtAl2006.pdf) (Due: February 6)
-* Assignment 3: [Eams and Keeling 2002](https://storage.googleapis.com/math496/PDFs/EamesKeeling2002.pdf) (Due: February 13)
-* Assignment 4: [Pourbohloul et al. 2003](https://storage.googleapis.com/math496/PDFs/Pourbohloul2003a.pdf) (Due: March 6)
-* Assignment 5: [Parham and Michael 2010](https://storage.googleapis.com/math496/PDFs/ParhamMichael2010.pdf) (Due: March 20)
-* Assignment 6: [Stadler et al. 2012](https://storage.googleapis.com/math496/PDFs/Stadler2012.pdf) (Due: April 3)
-
-### Lab Assignments
-
-* Lab 1: [Modelling HIV](https://storage.googleapis.com/math496/Labs/LabAssignment1.pdf) (**New Due Date** Janruary 26th)*
-* Lab 2: [Modelling Chikenpox](https://storage.googleapis.com/math496/Labs/LabAssignment2.pdf) ((**New Due Date** Due February 13th)
-* Lab 3: [Stochastic Epidemics](https://storage.googleapis.com/math496/Labs/LabAssignment3.pdf) (Due March 2nd)
-* Lab 4: Antibiotic Resistence (Due March 23rd)
-
-
-*All assignments due at 11:59pm
+## Our Sponsers
