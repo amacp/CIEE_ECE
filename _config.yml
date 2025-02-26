@@ -6,6 +6,17 @@ description: CIEE Workshop
 theme: jekyll-theme-minimal # You can change the theme
 markdown: kramdown
 
+# Navigation Links
+nav:
+  - title: Home
+    url: /
+  - title: About
+    url: /CodeOfConduct.md
+  # - title: Projects
+  #   url: /projects
+  # - title: Contact
+  #   url: /contact
+    
 # # Exclude files that should not be processed
 # exclude:
 #   - README.md
