@@ -3,15 +3,15 @@ description: CIEE Workshop
 # baseurl: "" # Leave empty if deploying to root, or set to "/repo-name"
 # url: "https://amacp.github.io/CIEE_ECE/" # Replace with your GitHub Pages URL
 
-theme: jekyll-theme-minimal # You can change the theme
+theme: jekyll-theme-cayman
 markdown: kramdown
 
 # Navigation Links
-nav:
-  - title: Home
-    url: /
-  - title: Code of Conduct
-    url: /CodeOfConduct
+# nav:
+#   - title: Home
+#     url: /
+#   - title: Code of Conduct
+#     url: /CodeOfConduct
   # - title: Projects
   #   url: /projects
   # - title: Contact
