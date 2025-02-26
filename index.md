@@ -2,7 +2,7 @@
 title: Home
 ---
 
-[TEST](./about.md).
+[Code of Conduct](./CodeOfConduct.md) [Data Management Plan](./DataManagement.md) [Authorship Plan](./Authorship.md)
 
 ## Workshop summary
 Extreme climate-related events (ECEs) including fires, floods, heatwaves, and storms, are increasing in frequency across Canada and worldwide.  Evolutionary theory predicts that these events can have severe consequences for populations, including reduced genetic diversity, increased inbreeding, and diminished capacity for ongoing adaptation. However, temporal datasets assessing genetic diversity before and after ECEs have found little evidence for the predicted declines in genetic diversity. This lack of effect may signal a high degree of genetic resistance or resilience to ECEs across diverse wildlife populations, but alternatively, may reflect the small number of studies to date, their ad hoc nature (ECEs are inherently unpredictable), or limitations arising from the type or amount of data used to investigate their effects. This working group brings together a diverse group of theoretical and empirical biologists and conservation practitioners to extend our understanding of the genetic consequences of ECEs and to provide guidelines for empirical investigation of these events. 
