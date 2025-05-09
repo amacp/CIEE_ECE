@@ -13,6 +13,11 @@ The one-week in-person working group will take place in Paahtómahksikimi (Water
 
 ### Monday, May 12th (Arrival)
 
+| Time           | Description                                      | Leads |
+|----------------|--------------------------------------------------|-------|
+| 7:00 - 9:00 pm | Introduction and Ice Breaker at Pizza of Waterton |       |
+
+
 ### Tuesday, May 13th 
 **Goals:**
 - Introduction to datasets and theory
