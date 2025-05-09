@@ -32,7 +32,7 @@ The one-week in-person working group will take place in Paahtómahksikimi (Water
 | 9:00 - 9:30    | Presentation: Community projects and need – Local            | Alvin                    |
 | 9:30 - 10:00   | Presentation: Salamander Case Study                          | Juan and Julie           |
 | 10:00 - 10:30  | Break - Refreshments provided                                |                          |
-| 10:30 - 12:30  | Presentation: Mathematical Theory of Bottlenecks             | Ailene and Sally         |
+| 10:30 - 12:30  | Presentation: Mathematical Theory of Bottlenecks             | Ailene, Sally, & Tom     |
 | 12:30 - 2:30   | Lunch                                                        |                          |
 | 2:30 - 3:30    | Small group discussions and brainstorming                    |                          |
 | 3:30 - 4:00    | Break and Discussion                                         |                          |
